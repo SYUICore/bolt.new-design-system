@@ -49,6 +49,9 @@ const Blog = () => {
             <Button variant="secondary" size="md">
               Newsletter
             </Button>
+            <Button variant="secondary" size="md">
+              Newsletter
+            </Button>
             <button className="p-2">
               <Search className="w-6 h-6 text-[#161616]" />
             </button>

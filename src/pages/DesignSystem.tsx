@@ -36,6 +36,10 @@ const DesignSystem = () => {
                 <Button variant="secondary" size="md">Medium Button</Button>
                 <Button variant="secondary" size="lg">Large Button</Button>
                 <Button variant="secondary" size="icon"><Settings /></Button>
+<Button variant="secondary" size="md">
+              Newsletter
+            </Button>
+                
               </div>
             </div>
 

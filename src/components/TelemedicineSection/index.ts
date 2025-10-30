@@ -1,1 +1,0 @@
-export { TelemedicineSection } from './TelemedicineSection';

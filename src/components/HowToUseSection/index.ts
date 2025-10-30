@@ -1,1 +1,0 @@
-export { HowToUseSection } from './HowToUseSection';
